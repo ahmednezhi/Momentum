@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_haven_t_saved_any_goals_for_this_day">You haven\'t saved any goals for this Day!</string>
+    <string name="add_new_goal">Add New Goal</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="welcome">welcome!</string>
+</resources>

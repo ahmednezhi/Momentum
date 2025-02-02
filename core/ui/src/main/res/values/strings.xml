@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_category">Select Category</string>
+    <string name="from_to">From: %1$s - To: %2$s</string>
+    <string name="previous_week">Previous Week</string>
+    <string name="next_week">Next Week</string>
+</resources>

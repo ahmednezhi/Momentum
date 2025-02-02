@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="soft_mint_green">#A8D8D8</color>   <!-- Soft Mint Green -->
+    <color name="soft_lavender">#D1C6E1</color>      <!-- Soft Lavender -->
+    <color name="soft_peach">#F9D1B5</color>         <!-- Soft Peach -->
+    <color name="soft_sky_blue">#A3C8E5</color>      <!-- Soft Sky Blue -->
+</resources>
