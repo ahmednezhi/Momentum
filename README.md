@@ -9,15 +9,12 @@ Momentum is a social photo-sharing app designed to help users set and track pers
 3. **Goal Tracking**: Users can visualize their progress with a timeline of uploaded photos.
 4. **Future Enhancements**: Community challenges, social interactions, and AI-based progress insights.
 
-📽️ Demo:
-
-![Demo](screenshots/demo.gif)
-
 ### Screenshots:
 
 | Onboarding  | Home Screen | Goal Tracking | Add Goal |
 |-------------|------------|---------------|----------|
 | ![Onboarding](screenshots/Screenshot_1738505061.png) | ![Home](screenshots/Screenshot_1738505064.png) | ![Goal Tracking](screenshots/Screenshot_1738505076.png) | ![Goal Tracking](screenshots/Screenshot_1738505064.png) |
+
 
 ---
 
@@ -73,3 +70,9 @@ This project was developed in **less than 30 hours** as part of a coding test fo
 3. Wait for the daily reminder or trigger it manually via code. 
 
 ---
+
+📽️ Demo:
+
+<p align="start">
+  <img src="screenshots/demo.gif" width="300">
+</p>
